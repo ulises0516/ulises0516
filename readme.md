@@ -1,6 +1,6 @@
 # Hi 👾
 
-My name is Ulises Salinas, I am a third year student at the **University of California, San Diego** 🏫, pursuing a **Bachelor of Science in Computer Science**. I am passionate about developing scalable and modular software, and I have experience with web development, software design, and data analysis.
+My name is Ulises Salinas, I am a 4th year student at the **University of California, San Diego** 🏫, pursuing a **Bachelor of Science in Computer Science**.
 
 
 ## Languages and Tools:
