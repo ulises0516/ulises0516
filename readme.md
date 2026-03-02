@@ -10,7 +10,7 @@ My name is Ulises Salinas, I am a 4th year student at the **University of Califo
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 🚀 Work Experience
-### Amazon Web Services** – New York City, NY 📍
+### Amazon Web Services – New York City, NY 📍
 **SDE Intern June 2025 –  September 2025**
 
 ### Center for Applied Internet Data Analysis (CAIDA)** - UC San Diego 📍 
