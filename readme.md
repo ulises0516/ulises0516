@@ -13,6 +13,6 @@ My name is Ulises Salinas, I am a 4th year student at the **University of Califo
 ### SDE Intern 💻  June 2025 –  September 2025
 **Amazon Web Services** – New York City, NY 📍
 
-### Data System Analyst Intern (REU) 👾  June 2024 – Present
+### Data System Analyst Intern (REU) 👾  June 2024 – June 2025
 **Center for Applied Internet Data Analysis (CAIDA)** - UC San Diego 📍
 
